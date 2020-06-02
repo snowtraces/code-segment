@@ -1,8 +1,9 @@
 # 并发工具类
-+ [并发工具类（一）等待多线程完成的CountDownLatch](http://ifeve.com/talk-concurrency-countdownlatch/)
-+ [并发工具类（二）同步屏障CyclicBarrier](http://ifeve.com/concurrency-cyclicbarrier/)
-+ [并发工具类（三）控制并发线程数的Semaphore](http://ifeve.com/concurrency-semaphore/)
-+ [并发工具类（四）两个线程进行数据交换的Exchanger](http://ifeve.com/concurrency-exchanger/)
++ [原文](http://ifeve.com/talk-concurrency-countdownlatch/) - [CountDownLatch](#CountDownLatch)
++ [原文](http://ifeve.com/concurrency-cyclicbarrier/) - [CyclicBarrier](#CyclicBarrier)
++ [原文](http://ifeve.com/concurrency-semaphore/) - [Semaphore](#Semaphore)
++ [原文](http://ifeve.com/concurrency-exchanger/) - [Exchanger](#Exchanger)
+
 
 ## CountDownLatch
 
